@@ -1,4 +1,3 @@
-0000000000000000000000000000000000000000 7201dc480134f41dd1be1f8f9b8f8470aac82a3b Win <fnvin@hotmail.com> 1726280845 +0700	clone: from https://github.com/kavinddd/kickstart.nvim.git
-7201dc480134f41dd1be1f8f9b8f8470aac82a3b 16c0b5570880fe0c8037e39a45119d3b452cef6a Win <fnvin@hotmail.com> 1726583711 +0700	commit: feat: change colorscheme to rebelot/kanagawa
-16c0b5570880fe0c8037e39a45119d3b452cef6a 62681f0491e91cfdd297cbf6aa5b1508969bb7ff Win <fnvin@hotmail.com> 1730786489 +0700	commit: feat: add autotag (html, jsx tag) and prettier
-62681f0491e91cfdd297cbf6aa5b1508969bb7ff a45590b899e90dda82d6037ef539cc5aa6457f61 Win <fnvin@hotmail.com> 1744211891 +0700	commit: feat: add rust + virtual text (inline-error)
+0000000000000000000000000000000000000000 cfdc17be3ae1607d4427332de0b29d556f9dda13 Win <fnvin@hotmail.com> 1779607246 +0700	branch: Created from origin/master
+cfdc17be3ae1607d4427332de0b29d556f9dda13 2f02b2308048aed4f339039d27cc10bef3fed0cc Win <fnvin@hotmail.com> 1779612767 +0700	commit (amend): Merge pull request #1982 from nathanzeng/jump-diagnostic
+2f02b2308048aed4f339039d27cc10bef3fed0cc cfdc17be3ae1607d4427332de0b29d556f9dda13 Win <fnvin@hotmail.com> 1779612784 +0700	reset: moving to refs/remotes/origin/master

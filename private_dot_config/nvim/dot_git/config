@@ -6,6 +6,12 @@
 [remote "origin"]
 	url = git@github.com:kavinddd/kickstart.nvim.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "local"]
+	remote = origin
+	merge = refs/heads/local
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
+[branch "local-vim.pack"]
+	remote = origin
+	merge = refs/heads/local-vim.pack

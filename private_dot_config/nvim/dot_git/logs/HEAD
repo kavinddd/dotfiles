@@ -2,3 +2,52 @@
 7201dc480134f41dd1be1f8f9b8f8470aac82a3b 16c0b5570880fe0c8037e39a45119d3b452cef6a Win <fnvin@hotmail.com> 1726583711 +0700	commit: feat: change colorscheme to rebelot/kanagawa
 16c0b5570880fe0c8037e39a45119d3b452cef6a 62681f0491e91cfdd297cbf6aa5b1508969bb7ff Win <fnvin@hotmail.com> 1730786489 +0700	commit: feat: add autotag (html, jsx tag) and prettier
 62681f0491e91cfdd297cbf6aa5b1508969bb7ff a45590b899e90dda82d6037ef539cc5aa6457f61 Win <fnvin@hotmail.com> 1744211891 +0700	commit: feat: add rust + virtual text (inline-error)
+a45590b899e90dda82d6037ef539cc5aa6457f61 62681f0491e91cfdd297cbf6aa5b1508969bb7ff Win <fnvin@hotmail.com> 1744657962 +0700	reset: moving to HEAD^1
+62681f0491e91cfdd297cbf6aa5b1508969bb7ff 60ca46df788277dd88759150a70f2da1e8c10572 Win <fnvin@hotmail.com> 1744658058 +0700	commit: feat: add rust analyzer, inline-error text
+60ca46df788277dd88759150a70f2da1e8c10572 430c5d231d7a33c448749873993507b80bc863e1 Win <fnvin@hotmail.com> 1751903161 +0700	commit: fix: bun
+430c5d231d7a33c448749873993507b80bc863e1 8dda6113a5d36b7e4a33afc8787ff128eac5ae2e Win <fnvin@hotmail.com> 1773072553 +0700	commit: feat: add dockercompose, relative ln, gruvbox theme
+8dda6113a5d36b7e4a33afc8787ff128eac5ae2e 8dda6113a5d36b7e4a33afc8787ff128eac5ae2e Win <fnvin@hotmail.com> 1773126032 +0700	reset: moving to HEAD
+8dda6113a5d36b7e4a33afc8787ff128eac5ae2e 46e6e3d5555128ec5bc1921b4cf6db9a887ae70a Win <fnvin@hotmail.com> 1773126095 +0700	commit (amend): feat: add dockercompose, relative ln, gruvbox theme
+46e6e3d5555128ec5bc1921b4cf6db9a887ae70a f02f16b4ca7e343c7483f20219445e34e8801423 Win <fnvin@hotmail.com> 1779537529 +0700	commit: feat: set keymap to move between pane using arrow instead of vim
+f02f16b4ca7e343c7483f20219445e34e8801423 4680bdd0b53da9a6339146a7ee03513f079b314c Win <fnvin@hotmail.com> 1779537534 +0700	commit (amend): feat: set keymap to move between pane using arrow instead of vim motion
+4680bdd0b53da9a6339146a7ee03513f079b314c 258256360f713dc228f8dc3517ecb98e5c82d000 Win <fnvin@hotmail.com> 1779537553 +0700	commit: feat: add typescript debug server
+258256360f713dc228f8dc3517ecb98e5c82d000 5d023d5fc0ffde3bee04970950219b06735b69f2 Win <fnvin@hotmail.com> 1779537566 +0700	commit: feat: inlay hint for typescript
+5d023d5fc0ffde3bee04970950219b06735b69f2 8dda6113a5d36b7e4a33afc8787ff128eac5ae2e Win <fnvin@hotmail.com> 1779537570 +0700	rebase (start): checkout refs/remotes/origin/master
+8dda6113a5d36b7e4a33afc8787ff128eac5ae2e 5d023d5fc0ffde3bee04970950219b06735b69f2 Win <fnvin@hotmail.com> 1779537591 +0700	rebase (abort): returning to refs/heads/master
+5d023d5fc0ffde3bee04970950219b06735b69f2 5a21aa5727f327b737b5ed7f786083a1640a54f2 Win <fnvin@hotmail.com> 1779606752 +0700	commit: fixup
+5a21aa5727f327b737b5ed7f786083a1640a54f2 46e6e3d5555128ec5bc1921b4cf6db9a887ae70a Win <fnvin@hotmail.com> 1779606759 +0700	rebase (start): checkout 46e6e3d5555128ec5bc1921b4cf6db9a887ae70a
+46e6e3d5555128ec5bc1921b4cf6db9a887ae70a 4680bdd0b53da9a6339146a7ee03513f079b314c Win <fnvin@hotmail.com> 1779606759 +0700	rebase: fast-forward
+4680bdd0b53da9a6339146a7ee03513f079b314c 258256360f713dc228f8dc3517ecb98e5c82d000 Win <fnvin@hotmail.com> 1779606804 +0700	rebase: fast-forward
+258256360f713dc228f8dc3517ecb98e5c82d000 d77223add267a42fc87b8770a6f70959f5833cde Win <fnvin@hotmail.com> 1779606804 +0700	rebase (fixup): feat: add typescript debug server
+d77223add267a42fc87b8770a6f70959f5833cde 2c7c27ccf822375afb9ea91b92f43b41af196f88 Win <fnvin@hotmail.com> 1779606804 +0700	rebase (pick): feat: inlay hint for typescript
+2c7c27ccf822375afb9ea91b92f43b41af196f88 2c7c27ccf822375afb9ea91b92f43b41af196f88 Win <fnvin@hotmail.com> 1779606804 +0700	rebase (finish): returning to refs/heads/master
+2c7c27ccf822375afb9ea91b92f43b41af196f88 2c7c27ccf822375afb9ea91b92f43b41af196f88 Win <fnvin@hotmail.com> 1779606922 +0700	checkout: moving from master to local
+2c7c27ccf822375afb9ea91b92f43b41af196f88 2c7c27ccf822375afb9ea91b92f43b41af196f88 Win <fnvin@hotmail.com> 1779607012 +0700	checkout: moving from local to master
+2c7c27ccf822375afb9ea91b92f43b41af196f88 2c7c27ccf822375afb9ea91b92f43b41af196f88 Win <fnvin@hotmail.com> 1779607021 +0700	reset: moving to refs/heads/master
+2c7c27ccf822375afb9ea91b92f43b41af196f88 2c7c27ccf822375afb9ea91b92f43b41af196f88 Win <fnvin@hotmail.com> 1779607043 +0700	checkout: moving from master to local
+2c7c27ccf822375afb9ea91b92f43b41af196f88 cfdc17be3ae1607d4427332de0b29d556f9dda13 Win <fnvin@hotmail.com> 1779607064 +0700	rebase (start): checkout origin/master
+cfdc17be3ae1607d4427332de0b29d556f9dda13 2c7c27ccf822375afb9ea91b92f43b41af196f88 Win <fnvin@hotmail.com> 1779607229 +0700	rebase (abort): returning to refs/heads/local
+2c7c27ccf822375afb9ea91b92f43b41af196f88 cfdc17be3ae1607d4427332de0b29d556f9dda13 Win <fnvin@hotmail.com> 1779607246 +0700	checkout: moving from local to master
+cfdc17be3ae1607d4427332de0b29d556f9dda13 2c7c27ccf822375afb9ea91b92f43b41af196f88 Win <fnvin@hotmail.com> 1779607254 +0700	checkout: moving from master to local
+2c7c27ccf822375afb9ea91b92f43b41af196f88 cfdc17be3ae1607d4427332de0b29d556f9dda13 Win <fnvin@hotmail.com> 1779607256 +0700	rebase (start): checkout master
+cfdc17be3ae1607d4427332de0b29d556f9dda13 2c7c27ccf822375afb9ea91b92f43b41af196f88 Win <fnvin@hotmail.com> 1779608514 +0700	rebase (abort): returning to refs/heads/local
+2c7c27ccf822375afb9ea91b92f43b41af196f88 cfdc17be3ae1607d4427332de0b29d556f9dda13 Win <fnvin@hotmail.com> 1779608536 +0700	rebase (start): checkout master
+cfdc17be3ae1607d4427332de0b29d556f9dda13 20237ac469698bf1e734a8ba18377be645d3d235 Win <fnvin@hotmail.com> 1779609241 +0700	rebase (continue): feat: change colorscheme to rebelot/kanagawa
+20237ac469698bf1e734a8ba18377be645d3d235 a9a9fb4691f3f555feb4403eea7b5c58466d4a03 Win <fnvin@hotmail.com> 1779609440 +0700	rebase (continue): feat: add autotag (html, jsx tag) and prettier
+a9a9fb4691f3f555feb4403eea7b5c58466d4a03 b1d14eae6ed0f03f9d218884e10c496335739ee7 Win <fnvin@hotmail.com> 1779610282 +0700	rebase (continue): feat: add rust analyzer, inline-error text
+b1d14eae6ed0f03f9d218884e10c496335739ee7 a40f733f60827e8e16499cc7523d01102ed21ce7 Win <fnvin@hotmail.com> 1779610298 +0700	rebase (continue): fix: bun
+a40f733f60827e8e16499cc7523d01102ed21ce7 221bd1fcb632cd5fedca5f65bc4a28fc3ea0604c Win <fnvin@hotmail.com> 1779610956 +0700	rebase (continue): feat: add dockercompose, relative ln, gruvbox theme
+221bd1fcb632cd5fedca5f65bc4a28fc3ea0604c 0568dbb1b07cd85074da356686c779fdb2400037 Win <fnvin@hotmail.com> 1779611522 +0700	rebase (continue): feat: set keymap to move between pane using arrow instead of vim motion
+0568dbb1b07cd85074da356686c779fdb2400037 38a11708a234b0c5927c1da25462e913b9f5c242 Win <fnvin@hotmail.com> 1779612484 +0700	rebase (pick): feat: inlay hint for typescript
+38a11708a234b0c5927c1da25462e913b9f5c242 38a11708a234b0c5927c1da25462e913b9f5c242 Win <fnvin@hotmail.com> 1779612484 +0700	rebase (finish): returning to refs/heads/local
+38a11708a234b0c5927c1da25462e913b9f5c242 2c7c27ccf822375afb9ea91b92f43b41af196f88 Win <fnvin@hotmail.com> 1779612492 +0700	reset: moving to refs/remotes/origin/local
+2c7c27ccf822375afb9ea91b92f43b41af196f88 cfdc17be3ae1607d4427332de0b29d556f9dda13 Win <fnvin@hotmail.com> 1779612496 +0700	checkout: moving from local to master
+cfdc17be3ae1607d4427332de0b29d556f9dda13 cfdc17be3ae1607d4427332de0b29d556f9dda13 Win <fnvin@hotmail.com> 1779612532 +0700	reset: moving to refs/heads/master
+cfdc17be3ae1607d4427332de0b29d556f9dda13 cfdc17be3ae1607d4427332de0b29d556f9dda13 Win <fnvin@hotmail.com> 1779612764 +0700	reset: moving to refs/heads/master
+cfdc17be3ae1607d4427332de0b29d556f9dda13 2f02b2308048aed4f339039d27cc10bef3fed0cc Win <fnvin@hotmail.com> 1779612767 +0700	commit (amend): Merge pull request #1982 from nathanzeng/jump-diagnostic
+2f02b2308048aed4f339039d27cc10bef3fed0cc 2f02b2308048aed4f339039d27cc10bef3fed0cc Win <fnvin@hotmail.com> 1779612774 +0700	reset: moving to refs/heads/master
+2f02b2308048aed4f339039d27cc10bef3fed0cc 2f02b2308048aed4f339039d27cc10bef3fed0cc Win <fnvin@hotmail.com> 1779612778 +0700	reset: moving to refs/heads/master
+2f02b2308048aed4f339039d27cc10bef3fed0cc cfdc17be3ae1607d4427332de0b29d556f9dda13 Win <fnvin@hotmail.com> 1779612784 +0700	reset: moving to refs/remotes/origin/master
+cfdc17be3ae1607d4427332de0b29d556f9dda13 cfdc17be3ae1607d4427332de0b29d556f9dda13 Win <fnvin@hotmail.com> 1779617350 +0700	checkout: moving from master to local-vim.pack
+cfdc17be3ae1607d4427332de0b29d556f9dda13 698d0cc5fabcad28f5e15b1271e83c9b30790bc0 Win <fnvin@hotmail.com> 1779617360 +0700	commit: feat: migrate to vim.pack
+698d0cc5fabcad28f5e15b1271e83c9b30790bc0 5f5e9ee458e64a9e7e0201da2562a6253e22a31b Win <fnvin@hotmail.com> 1779617512 +0700	commit (amend): feat: migrate to vim.pack

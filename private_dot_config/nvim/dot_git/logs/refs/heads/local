@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 2c7c27ccf822375afb9ea91b92f43b41af196f88 Win <fnvin@hotmail.com> 1779606922 +0700	branch: Created from refs/heads/master
+2c7c27ccf822375afb9ea91b92f43b41af196f88 38a11708a234b0c5927c1da25462e913b9f5c242 Win <fnvin@hotmail.com> 1779612484 +0700	rebase (finish): refs/heads/local onto cfdc17be3ae1607d4427332de0b29d556f9dda13
+38a11708a234b0c5927c1da25462e913b9f5c242 2c7c27ccf822375afb9ea91b92f43b41af196f88 Win <fnvin@hotmail.com> 1779612492 +0700	reset: moving to refs/remotes/origin/local
