@@ -52,3 +52,4 @@ cfdc17be3ae1607d4427332de0b29d556f9dda13 cfdc17be3ae1607d4427332de0b29d556f9dda1
 cfdc17be3ae1607d4427332de0b29d556f9dda13 698d0cc5fabcad28f5e15b1271e83c9b30790bc0 Win <fnvin@hotmail.com> 1779617360 +0700	commit: feat: migrate to vim.pack
 698d0cc5fabcad28f5e15b1271e83c9b30790bc0 5f5e9ee458e64a9e7e0201da2562a6253e22a31b Win <fnvin@hotmail.com> 1779617512 +0700	commit (amend): feat: migrate to vim.pack
 5f5e9ee458e64a9e7e0201da2562a6253e22a31b 4a524290421e5fc0487aeba37a47d6779028fbe8 Win <fnvin@hotmail.com> 1779687205 +0700	commit: feat: add flash.nvim
+4a524290421e5fc0487aeba37a47d6779028fbe8 2dd5f21d7e6f9104ff97b2aeea44b7b0cebd088a Win <fnvin@hotmail.com> 1780571719 +0700	commit: feat: add format on save on ts,js
